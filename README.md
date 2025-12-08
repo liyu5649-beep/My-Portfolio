@@ -8,7 +8,7 @@
 - [GitHub Repository](https://github.com/liyu5649-beep/project_sprout-studio)
 - [Demo 網頁](https://liyu5649-beep.github.io/project_sprout-studio/sprout%20studio.html)
 
-## 專案 1：水灣官網調整(網頁)
+## 專案 2：水灣官網調整(網頁)
 - 預覽圖：
   ![首頁截圖](封面.png)
 - 簡介：這是我做的響應式網站，使用 HTML/CSS/JS
